@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://i.redd.it/japanese-ultrawides-21-9-3440x1440-v0-2gs1067bvd2e1.jpg?width=1080&crop=smart&auto=webp&s=0e835d44d3b69ea283b2f6ad25c385e5ac208f97" alt="Minimalist Banner" width="100%" style="filter: grayscale(50%); border-radius: 6px;">
+<img src="https://i.redd.it/japanese-ultrawides-21-9-3440x1440-v0-2gs1067bvd2e1.jpg?width=1080&crop=smart&auto=webp&s=0e835d44d3b69ea283b2f6ad25c385e5ac208f97" width="100%" style="filter: grayscale(50%); border-radius: 6px;">
 
 <br/>
 
-# M D . N A J M O S &nbsp; S A L A H I N
+# M D . N A J M O S   S A L A H I N
 
 — *Developer & Data Analyst* —
 
@@ -18,9 +18,11 @@ Passionate about bridging code, insights, and human behavior.
 <br/>
 Currently based in Tokyo.
 
-**T O O L K I T**
+<br/>
 
-<div align="center">
+</div>
+
+###     >_ T O O L K I T
 
 ```text
 +-----------------------+-----------------------+
@@ -31,31 +33,49 @@ Currently based in Tokyo.
 |  > SQL                |  > Obsidian           |
 |  > C/C++              |  > SPSS / Excel       |
 +-----------------------+-----------------------+
+
 ```
-</div>
+
+<div align="center">
 
 **W O R K**
 
 **Tempo Manager** (Productivity)
-<br/>
-A comprehensive to-do system with Pomodoro timers, calendar integration, and priority logic.
-<br/>
-[View Project](#)
 
-<br/>
+
+
+
+
+A comprehensive to-do system with Pomodoro timers, calendar integration, and priority logic.
+
+
+
+
+
+[View Project](https://www.google.com/search?q=%23)
 
 **Zenith Tracker** (AI Wellness)
-<br/>
-An AI-powered bio-tracker for mood, energy, and breathwork with deep data analysis.
-<br/>
-[View Project](#)
 
-<br/>
+
+
+
+
+An AI-powered bio-tracker for mood, energy, and breathwork with deep data analysis.
+
+
+
+
+
+[View Project](https://www.google.com/search?q=%23)
 
 **C O N N E C T**
 
-[LinkedIn](https://www.linkedin.com/in/md-najmos-salahin-185106371/) &nbsp; — &nbsp; [Linktree](https://linktr.ee/najmos_salahin) &nbsp; — &nbsp; [X (Twitter)](https://x.com/najmus_sal)
-<br/>
-[Patreon](https://patreon.com/Najmos_Salahin) &nbsp; — &nbsp; [Discord](https://discord.com/users/sukkimura.) &nbsp; — &nbsp; [Spotify](https://open.spotify.com/user/vd04twrk09mp6hmvb9ree5dt2)
+[LinkedIn](https://www.linkedin.com/in/md-najmos-salahin-185106371/)   —   [Linktree](https://linktr.ee/najmos_salahin)   —   [X (Twitter)](https://x.com/najmus_sal)
+
+
+
+
+
+[Patreon](https://patreon.com/Najmos_Salahin)   —   [Discord](https://www.google.com/search?q=https://discord.com/users/sukkimura.)   —   [Spotify](https://open.spotify.com/user/vd04twrk09mp6hmvb9ree5dt2)
 
 </div>
