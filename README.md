@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.redd.it/japanese-ultrawides-21-9-3440x1440-v0-2gs1067bvd2e1.jpg?width=1080&crop=smart&auto=webp&s=0e835d44d3b69ea283b2f6ad25c385e5ac208f97" alt="Minimalist Banner" width="100%" style="filter: grayscale(100%); border-radius: 6px;">
+<img src="https://i.redd.it/japanese-ultrawides-21-9-3440x1440-v0-2gs1067bvd2e1.jpg?width=1080&crop=smart&auto=webp&s=0e835d44d3b69ea283b2f6ad25c385e5ac208f97" alt="Minimalist Banner" width="100%" style="filter: grayscale(50%); border-radius: 6px;">
 
 <br/>
 
