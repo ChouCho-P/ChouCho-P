@@ -12,7 +12,7 @@
 
 **A B O U T**
 
-Hi, I'm Najmos. I build functional digital experiences and analyze the data behind them.
+Hi, I'm ナジモス. I build functional digital experiences and analyze the data behind them.
 <br/>
 Passionate about bridging code, insights, and human behavior.
 <br/>
@@ -70,7 +70,7 @@ An AI-powered bio-tracker for mood, energy, and breathwork with deep data analys
 
 **C O N N E C T**
 
-[LinkedIn](https://www.linkedin.com/in/md-najmos-salahin-185106371/)   —   [Linktree](https://linktr.ee/najmos_salahin)   —   [X (Twitter)](https://x.com/najmus_sal)
+[LinkedIn](https://www.linkedin.com/in/md-najmos-salahin-185106371/)   —   [Telegram](https://t.me/najmossalahin)   —   [X (Twitter)](https://x.com/najmus_sal)
 
 
 
