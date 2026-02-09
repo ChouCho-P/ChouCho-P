@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://i.redd.it/japanese-ultrawides-21-9-3440x1440-v0-2gs1067bvd2e1.jpg?width=1080&crop=smart&auto=webp&s=0e835d44d3b69ea283b2f6ad25c385e5ac208f97" alt="Minimalist Banner" width="100%" style="filter: grayscale(100%); border-radius: 6px;">
+
+<br/>
+
 # M D . N A J M O S &nbsp; S A L A H I N
 
 — *Developer & Data Analyst* —
@@ -14,15 +18,18 @@ Passionate about bridging code, insights, and human behavior.
 <br/>
 Currently based in Tokyo.
 
-<br/>
-
 **T O O L K I T**
 
-Python &nbsp; `|` &nbsp; HTML/CSS &nbsp; `|` &nbsp; SQL &nbsp; `|` &nbsp; C++
-<br/>
-VS Code &nbsp; `|` &nbsp; Google Colab &nbsp; `|` &nbsp; SPSS &nbsp; `|` &nbsp; Excel &nbsp; `|` &nbsp; Obsidian
-
-<br/>
+```text
++-----------------------+-----------------------+
+|  LANGUAGES            |  ARSENAL              |
++-----------------------+-----------------------+
+|  > Python             |  > VS Code            |
+|  > HTML / CSS         |  > Google Colab       |
+|  > SQL                |  > Obsidian           |
+|  > C/C++              |  > SPSS / Excel       |
++-----------------------+-----------------------+
+```
 
 **W O R K**
 
