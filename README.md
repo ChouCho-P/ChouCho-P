@@ -20,7 +20,6 @@ Currently based in Tokyo.
 
 <br/>
 
-</div>
 
 ###     >_ T O O L K I T
 
@@ -33,8 +32,9 @@ Currently based in Tokyo.
 |  > SQL                |  > Obsidian           |
 |  > C/C++              |  > SPSS / Excel       |
 +-----------------------+-----------------------+
-
 ```
+
+</div>
 
 <div align="center">
 
