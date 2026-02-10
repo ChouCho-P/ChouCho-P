@@ -55,7 +55,7 @@ A comprehensive to-do system with Pomodoro timers, calendar integration, and pri
 
 
 
-[View Project](https://www.google.com/search?q=%23)
+[View Project](https://github.com/ChouCho-P/FocusFlow)
 
 **WellNest** (AI Wellness)
 
@@ -69,7 +69,7 @@ An AI-powered bio-tracker for mood, energy, and breathwork with deep data analys
 
 
 
-[View Project](https://www.google.com/search?q=%23)
+[View Project](https://github.com/ChouCho-P/WellNest)
 
 **C O N N E C T**
 
