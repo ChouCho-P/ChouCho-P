@@ -54,7 +54,7 @@ A comprehensive to-do system with Pomodoro timers, calendar integration, and pri
 
 [View Project](https://www.google.com/search?q=%23)
 
-**Zenith Tracker** (AI Wellness)
+**WellNest** (AI Wellness)
 
 
 
