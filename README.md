@@ -29,8 +29,11 @@ Currently based in Tokyo.
 +-----------------------+-----------------------+
 |  > Python             |  > VS Code            |
 |  > HTML / CSS         |  > Google Colab       |
-|  > SQL                |  > Obsidian           |
-|  > C/C++              |  > SPSS / Excel       |
+|  > SQL                |  > MYSQL              |
+|  > C / C++            |  > Excel / Power BI   |
+|  > JavaScript         |  > Git / GitHub       |
+|  > TypeScript         |  > Postman            |
+|  > Java               |  > Docker             |
 +-----------------------+-----------------------+
 ```
 
