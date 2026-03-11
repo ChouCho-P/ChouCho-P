@@ -79,6 +79,6 @@ An AI-powered bio-tracker for mood, energy, and breathwork with deep data analys
 
 
 
-[Patreon](https://patreon.com/Najmos_Salahin)   —   [Discord](https://www.google.com/search?q=https://discord.com/users/sukkimura.)   —   [Spotify](https://open.spotify.com/user/vd04twrk09mp6hmvb9ree5dt2)
+[Patreon](https://patreon.com/Najmos_Salahin)   —   [Discord](https://discord.com/users/sukkimura.)   —   [Spotify](https://open.spotify.com/user/vd04twrk09mp6hmvb9ree5dt2)
 
 </div>
