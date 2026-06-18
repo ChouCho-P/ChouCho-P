@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.redd.it/tnx1wfvi1t131.jpg?width=1080&crop=smart&auto=webp&s=0e835d44d3b69ea283b2f6ad25c385e5ac208f97" width="100%" style="filter: grayscale(50%); border-radius: 6px;">
+<img src="https://gruvbox-wallpapers.pages.dev/wallpapers/anime/wallpaper.jpg?width=1080&crop=smart&auto=webp&s=0e835d44d3b69ea283b2f6ad25c385e5ac208f97" width="100%" style="filter: grayscale(50%); border-radius: 6px;">
 
 <br/>
 
